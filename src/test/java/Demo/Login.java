@@ -24,6 +24,8 @@ public class Login {
 	public void launchBrowser() {
 		
 		System.out.println("Launching browser");
+		System.out.println("Launching browser2");
+		
 	}
 	
 	
